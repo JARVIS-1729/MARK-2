@@ -1,0 +1,25 @@
+=== KEYLOGGER ANALYSIS REPORT ===
+Total keys pressed: 284
+Backspace presses: 49
+Fast typing events: 215
+
+--- CHARACTER PATTERN ALERTS ---
+- Unusual uppercase typing (rage typing / emphasis).
+- Heavy repetition of key 'K' (141 presses).
+- Heavy repetition of key 'e' (252 presses).
+- Heavy repetition of key 'y' (143 presses).
+- Heavy repetition of key '.' (141 presses).
+- Heavy repetition of key 'c' (128 presses).
+- Heavy repetition of key 'a' (131 presses).
+
+--- TOP 10 KEYS ---
+Key.backspace: 49
+Key.right: 38
+Key.left: 27
+Key.space: 21
+n: 17
+i: 12
+e: 10
+a: 10
+o: 9
+d: 8
